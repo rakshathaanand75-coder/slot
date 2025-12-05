@@ -25,7 +25,8 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-~~~
+
+'''
 <html>
 <head>
 <title>Slot Timetable</title>
@@ -104,14 +105,15 @@ Execute the program using runserver command.
 <td align="center">19AI414</td>
 <td>WEB APPLICATION(FWAD)</td>
 </tr>
-~~~
+
+'''
 
 
 ## OUTPUT
 
+<img src="slot/Screenshot 2025-12-05 162257.png">
+<img src="c:\Users\acer\Pictures\Screenshots\Screenshot 2025-11-27 195702.png"> 
 
-![alt text](<Screenshot 2025-11-27 195541.png>)
-![alt text](<Screenshot 2025-11-27 195702.png>)
 
 
 
