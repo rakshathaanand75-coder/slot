@@ -26,7 +26,7 @@ Execute the program using runserver command.
 
 ## PROGRAM
 
-'''
+~~~
 <html>
 <head>
 <title>Slot Timetable</title>
@@ -106,7 +106,7 @@ Execute the program using runserver command.
 <td>WEB APPLICATION(FWAD)</td>
 </tr>
 
-'''
+~~~
 
 
 ## OUTPUT
