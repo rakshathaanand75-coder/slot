@@ -111,10 +111,8 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-<img src="slot/Screenshot 2025-12-05 162257.png">
-<img src="c:\Users\acer\Pictures\Screenshots\Screenshot 2025-11-27 195702.png"> 
-
-
+![alt text](<Screenshot 2025-11-27 195702.png>)
+![alt text](<Screenshot 2025-12-05 162257.png>)
 
 
 ## RESULT
